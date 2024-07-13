@@ -1,0 +1,2 @@
+I have created this project to learn to render 3D models using threeJS. I ahve used vite to create the project.
+The other project i used CDN to include threeJS in the project. This project is created using npm and vite.

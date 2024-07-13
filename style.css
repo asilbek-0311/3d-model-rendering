@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  background-color: #11151c;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: #fff;
+  text-align: center;
+  margin-top: 40px;
+}
+
+canvas.webgl {
+  display: block;
+  margin: auto;
+  margin-top: 50px;
+  border: 1px solid #fff;
+}
